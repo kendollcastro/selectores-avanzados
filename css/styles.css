@@ -50,3 +50,16 @@ h1 {
     color: white;
 
 }
+ .botonsignup{
+     font-family: Arial, Helvetica, sans-serif;
+     background-color: #0074DA;
+     color: #F0F0F0;
+     padding: 20px 70px;
+     font-size: 12px;
+     margin: auto;
+ }
+
+ .botonsignup:hover{
+    background-color: rgb(16, 69, 129);
+ }
+
