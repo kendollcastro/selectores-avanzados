@@ -18,6 +18,7 @@ h1 {
     color: black;
     border: 2px solid black;
 }
+/*Boton de Submit*/
 
 .botonsubmit{
     font-family: Arial, Helvetica, sans-serif;
@@ -31,4 +32,21 @@ h1 {
 .botonsubmit:hover{
     background-color: black;
     color: white;
+}
+
+/*boton de Cancel*/
+
+.botoncancel{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #F0F0F0;
+    color:black;
+    padding: 20px 70px;
+    font-size: 12px;
+    margin: auto;
+}
+
+.botoncancel:hover{
+    background-color: #616066;
+    color: white;
+
 }
